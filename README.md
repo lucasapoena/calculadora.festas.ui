@@ -1,4 +1,4 @@
-# NOME_DO_REPOSITORIO
+# Calculadora de Festas
 
 ## Descrição
 Descrição do que é e o porque do projeto.
